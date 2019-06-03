@@ -14,4 +14,4 @@ dynamic_website_spider/spider_with_api.py -> simple-flask-website/dynamic_websit
 
 后两个的区别详见 [dynamic_website_spider/README.md](dynamic_website_spider/README.md) 。
 
-最后的 [srapy](srapy/README.md) 是一个演示如何使用 scray 来实现持久化大量数据抓取的例子。
+最后的 [scrapy](scrapy/README.md) 是一个演示如何使用 scrapy 来实现持久化大量数据抓取的例子。
